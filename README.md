@@ -4,15 +4,15 @@ Kelas		: PPTI 12
 Berikut adalah tugas webprogramming saya menggunakan laravel dan css framework yaitu bootsrap.
 Tugas webprog yang saya buat adalah untuk membuat web profile. 
 
-![Website]( {https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/website.png )
+![Website](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/website.png )
 
 ## Home 
 Pada halaman ini saya menampilkan pembukaan awal website dengan pengenalan identitas saya dan dilengkapi dengan navbar dan juga button.
-![Home]( {https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/home.png} )
+![Home](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/home.png} )
 
 ## Navigation Bar
 Pada bagian ini saya hanya menampilkan Home, About, Education, Work Experience, dan Portofolio.
-![Navbar]( {https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/navbar.png )
+![Navbar](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/navbar.png )
 
 ## About
 Berisi penjelasan singkat mengenai diri saya dan tentang aktivitas yang biasa saya lakukan.
