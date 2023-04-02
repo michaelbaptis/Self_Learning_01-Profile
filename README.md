@@ -4,37 +4,38 @@ Kelas		: PPTI 12
 Berikut adalah tugas webprogramming saya menggunakan laravel dan css framework yaitu bootsrap.
 Tugas webprog yang saya buat adalah untuk membuat web profile. 
 
-![Website](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/website.png )
+![Website](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/website.png)
 
 ## Home 
 Pada halaman ini saya menampilkan pembukaan awal website dengan pengenalan identitas saya dan dilengkapi dengan navbar dan juga button.
-![Home](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/home.png} )
+![Home](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/home.png)
 
 ## Navigation Bar
 Pada bagian ini saya hanya menampilkan Home, About, Education, Work Experience, dan Portofolio.
-![Navbar](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/navbar.png )
+![Navbar](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/navbar.png)
 
 ## About
 Berisi penjelasan singkat mengenai diri saya dan tentang aktivitas yang biasa saya lakukan.
-![About]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
+![About](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/about.png)
 
 ## Education
 Berisi riwayat singkat pendidikan yang saya tempuh berikut dengan waktunya.
-![Education]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
+![Education](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/Education.png)
 
 ## Work Experience
 Dijelaskan secara singkat pengalaman kerja saya. Terdapat keterangan tempat, jobdesk, dan waktu lama kerja
-![Work Experience]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
+![Work Experience](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/experience.png)
 
 ## Portfolio
 Saya memasukkan beberapa dokumentasi portofolio yang saya lakukan secara perorangan maupun secara tim.
-![Portfolio]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
+![Portfolio](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/portfolio.png)
 Pada bagian foto di portfolio, saya memberi keterangan nama kegiatan berikut dengan jenis aktivitasnya
-![Keterangan Portfolio]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
+![Keterangan Portfolio](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/title.png)
+![Keterangan Portfolio 2](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/title2.png)
 
 ## Footer
 Pada bagian footer, saya hanya menampilkan contact Instagram, Youtube, dan Github saja.
-![Footer]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} ) 
+![Footer](https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/footer.png ) 
 
 # Cara Mengunduh &Menjalankan Website Ini
 
