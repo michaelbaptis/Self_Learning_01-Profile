@@ -52,7 +52,8 @@ Pada bagian footer, saya hanya menampilkan contact Instagram, Youtube, dan Githu
 8. Jalankan perintah `php artisan key:generate` untuk menghasilkan kunci aplikasi.
 9. Jalankan perintah `php artisan serve` untuk menjalankan aplikasi.
 10. Buka browser Anda dan akses `http://localhost:8000` untuk melihat proyek ini dijalankan.
-<br>
+
+
 - Menggunakan Unduh Manual
 1. Buka repository di GitHub.
 2.  Klik tombol `Code` yang berada di bagian kanan atas.
