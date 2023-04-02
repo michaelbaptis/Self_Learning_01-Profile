@@ -123,14 +123,14 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box">
                             <h4 class="title"><u>ELEMENTARY SCHOOL</u></h4>
-                            <p class="description">Advent Elementery School, Bogor<br><i>2009 - 2016</i></p>
+                            <p class="description">Advent Elementery School, Bogor<br><i>2009 - 2015</i></p>
                         </div>
                     </div>
 
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box">
                             <h4 class="title"><u>JUNIOR HIGH SCHOOL</u></h4>
-                            <p class="description">Junior High School 18, Bogor<br><i>2016-2018</i></p>
+                            <p class="description">Junior High School 18, Bogor<br><i>2015-2018</i></p>
                         </div>
                     </div>
 

@@ -127,7 +127,7 @@
     width: 100%;
     height: auto;
     background: #f7f7f7;
-    padding-top: 70px;
+    padding-top: 100px;
     padding-bottom: -5px;
 }
 
@@ -249,7 +249,7 @@
     width: 100%;
     height: 100%;
     background: #726e6e;
-    padding-top: 100px;
+    padding-top: 120px;
     color: aliceblue;
     font-family: "Poppins", sans-serif;
     padding-bottom: 100px;
@@ -358,7 +358,7 @@
 
 #exp {
     color: azure;
-    font-family: "Poppins", sans-serif;
+    padding-top: 40px;
 }
 
 .contact-section {
@@ -388,7 +388,7 @@
     height: auto;
     background: #252727;
     color: azure;
-    font-family: "Poppins", sans-serif;
+    padding-top: ;
 }
 
 .footer {
