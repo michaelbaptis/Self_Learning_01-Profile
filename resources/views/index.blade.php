@@ -13,7 +13,7 @@
 </head>
 <body>
    <section id="home">
-      <header class="masthead">
+      <header class="masthead ">
          <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
             <div class="d-flex justify-content-center">
                <div class="text-center">
@@ -24,7 +24,7 @@
                {{-- buat navbar --}}
                <header id="header" class="fixed-top d-flex justify-content-center align-items-center header-transparent">
                   <nav id="navbar" class="navbar">
-                     <ul class="nav">
+                     <ul>
                         <li><a class="nav-link scrollto active" href="#home">Home</a></li>
                         <li><a class="nav-link scrollto " href="#about">About</a></li>
                         <li><a class="nav-link scrollto" href="#education">Education</a></li>
@@ -205,7 +205,7 @@
               </div>
               <div id="portfolio-grid" class="row no-gutter" data-aos="fade-up" data-aos-delay="200">
                 <div class="item col-sm-6 col-md-4 col-lg-4 mb-4">
-                  <a href="#portfolio" class="item-wrap fancybox">
+                  <a class="item-wrap fancybox">
                     <div class="work-info">
                       <h3>Chruch</h3>
                       <span>Photography</span>
@@ -331,12 +331,22 @@
        
    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
    <script>
-      
-         $('.nav a').on('click', function() {
+         $('.navbar a').on('click', function() {
          console.log('test')
-         $('.nav').find('.active').removeClass('active');
+         $('.navbar').find('.active').removeClass('active');
          $(this).addClass('active');
       })
+      $(document).ready(function(){
+         $(window).scroll(function(){
+            var scroll = $(window).scrollTop();
+            if (scroll > 300) {
+               $("#header").addClass("bg-dark bg-opacity-50");
+            }
+            else{
+               $("#header").removeClass("bg-dark bg-opacity-50");  	
+            }
+         })
+         })
    </script>
 </body>
 </html>

@@ -17,6 +17,10 @@
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
 <body>
+    <head>
+        <script src="{{ asset('js/jquery-3.6.0.min.js') }}"></script>
+      </head>
+      
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
