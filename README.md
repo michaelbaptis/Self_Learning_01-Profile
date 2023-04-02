@@ -1,66 +1,71 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Self Learning Web Programming 
+Nama		: Michael Baptista Gozal
+Kelas		: PPTI 12
+Berikut adalah tugas webprogramming saya menggunakan laravel dan css framework yaitu bootsrap.
+Tugas webprog yang saya buat adalah untuk membuat web profile. 
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![Website]( {https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/website.png )
 
-## About Laravel
+## Home 
+Pada halaman ini saya menampilkan pembukaan awal website dengan pengenalan identitas saya dan dilengkapi dengan navbar dan juga button.
+![Home]( {https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/home.png} )
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Navigation Bar
+Pada bagian ini saya hanya menampilkan Home, About, Education, Work Experience, dan Portofolio.
+![Navbar]( {https://github.com/michaelbaptis/Self_Learning_01-Profile/blob/main/documentation/navbar.png )
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## About
+Berisi penjelasan singkat mengenai diri saya dan tentang aktivitas yang biasa saya lakukan.
+![About]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Education
+Berisi riwayat singkat pendidikan yang saya tempuh berikut dengan waktunya.
+![Education]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
 
-## Learning Laravel
+## Work Experience
+Dijelaskan secara singkat pengalaman kerja saya. Terdapat keterangan tempat, jobdesk, dan waktu lama kerja
+![Work Experience]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Portfolio
+Saya memasukkan beberapa dokumentasi portofolio yang saya lakukan secara perorangan maupun secara tim.
+![Portfolio]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
+Pada bagian foto di portfolio, saya memberi keterangan nama kegiatan berikut dengan jenis aktivitasnya
+![Keterangan Portfolio]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} )
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Footer
+Pada bagian footer, saya hanya menampilkan contact Instagram, Youtube, dan Github saja.
+![Footer]( {https://github.com/michaelbaptis/Self_Learning_01-Profile} ) 
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+# Cara Mengunduh &Menjalankan Website Ini
 
-## Laravel Sponsors
+ -  Menggunakan Git Clone
+	 1. Clone repository ini ke dalam komputer Anda dengan menjalankan perintah berikut di terminal: 
+		 >git clone https://github.com/namakamu/nama-repo.git
+	2.  Setelah selesai meng-clone repository, buka folder proyek ini di Visual Studio Code (VSCode).
+	3. Buka terminal di VSCode dengan menekan tombol `Ctrl+Shift+'`.
+	4. Jalankan perintah `composer install` untuk menginstal dependency yang dibutuhkan.
+	5. Salin file `.env.example` menjadi `.env` dan ubah konfigurasi database sesuai dengan database yang Anda gunakan. Lakukan dengan cara mengetik `cp .env.example .env` di teriminal VScode kalian.
+	6. Lakukan instalasi node package manager agar code bisa di proses dengan cara `npm install` pada terminal VSCode
+	7. Kemudian jalankan npm nya dengan perintah `npm run build`
+	8. Jalankan perintah `php artisan key:generate` untuk menghasilkan kunci aplikasi.
+	9. Jalankan perintah `php artisan serve` untuk menjalankan aplikasi.
+	10. Buka browser Anda dan akses `http://localhost:8000` untuk melihat proyek ini dijalankan.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- Menggunakan Unduh Manual
+	1. Buka repository di GitHub.
+	2.  Klik tombol `Code` yang berada di bagian kanan atas.
+	3.  Pilih opsi `Download ZIP`.
+	4.  Simpan file ZIP di komputer Anda.
+	5.  Ekstrak file ZIP ke folder tujuan.
+	6.  Buka folder proyek di Visual Studio Code (VSCode).
+	3. Buka terminal di VSCode dengan menekan tombol `Ctrl+Shift+'`.
+	4. Jalankan perintah `composer install` untuk menginstal dependency yang dibutuhkan.
+	5. Salin file `.env.example` menjadi `.env` dan ubah konfigurasi database sesuai dengan database yang Anda gunakan. Lakukan dengan cara mengetik `cp .env.example .env` di teriminal VScode kalian.
+	6. Lakukan instalasi node package manager agar code bisa di proses dengan cara `npm install` pada terminal VSCode
+	7. Kemudian jalankan npm nya dengan perintah `npm run build`
+	8. Jalankan perintah `php artisan key:generate` untuk menghasilkan kunci aplikasi.
+	9. Jalankan perintah `php artisan serve` untuk menjalankan aplikasi.
+	10. Buka browser Anda dan akses `http://localhost:8000` untuk melihat proyek ini dijalankan.
+ 
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+ 
