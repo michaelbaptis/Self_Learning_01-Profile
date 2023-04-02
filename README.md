@@ -42,7 +42,7 @@ Pada bagian footer, saya hanya menampilkan contact Instagram, Youtube, dan Githu
 
  -  Menggunakan Git Clone
 1. Clone repository ini ke dalam komputer Anda dengan menjalankan perintah berikut di terminal: 
-		 >git clone https://github.com/namakamu/nama-repo.git
+    >git clone https://github.com/michaelbaptis/Self_Learning_01-Profile.git
 2.  Setelah selesai meng-clone repository, buka folder proyek ini di Visual Studio Code (VSCode).
 3. Buka terminal di VSCode dengan menekan tombol `Ctrl+Shift+'`.
 4. Jalankan perintah `composer install` untuk menginstal dependency yang dibutuhkan.
